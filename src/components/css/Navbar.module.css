@@ -1,0 +1,19 @@
+.main {
+    min-height: 100dvh;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.main a{
+    color: white;
+    border-radius: 2rem;
+    background-color: blue;
+    text-decoration: none;
+    padding: 1rem 2.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
